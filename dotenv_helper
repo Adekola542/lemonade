@@ -1,0 +1,5 @@
+#this sensitive details should be stored as enviromental secrets and not hardcoded. 
+RABBITMQ_HOST = "RABBITMQ_HOST"
+RABBITMQ_USER = "RABBITMQ_USER"
+RABBITMQ_PASSWORD = "RABBITMQ_PASSWORD"
+SCRAPE_INTERVAL ="SCRAPE_INTERVAL"
